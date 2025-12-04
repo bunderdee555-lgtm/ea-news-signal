@@ -1,0 +1,5 @@
+[
+  {"currency":"USD","direction":"Positive","impact":"High"},
+  {"currency":"EUR","direction":"Negative","impact":"High"},
+  {"currency":"GBP","direction":"Positive","impact":"High"}
+]
